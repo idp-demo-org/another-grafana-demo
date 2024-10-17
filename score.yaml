@@ -32,4 +32,4 @@ resources:
       path: /
       port: 80
   db:
-    type: prostgres
+    type: postgres
